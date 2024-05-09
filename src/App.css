@@ -1,0 +1,28 @@
+.input_section {
+  margin: 80px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.search_box {
+  padding: 10px 15px;
+  font-size: 18px;
+  font-weight: 500;
+  outline: none;
+  border-radius: 7px;
+}
+.input_rating {
+  width: 60px;
+  font-weight: 500;
+  padding: 10px 15px;
+  outline: none;
+  border-radius: 7px;
+}
+
+.data_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}

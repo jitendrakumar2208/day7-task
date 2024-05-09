@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #414141;
+  padding: 15px 30px;
+}
+.left {
+  display: flex;
+  align-items: center;
+}
+.left img {
+  margin-right: 10px;
+}
+.center a {
+  text-decoration: none;
+  margin-left: 15px;
+  padding: 10px;
+  font-size: 17px;
+  font-weight: 600;
+  color: rgb(94, 91, 91);
+}
+.right button {
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+  background: rgb(79, 79, 215);
+  outline: none;
+  border: none;
+  border-radius: 10px;
+}
